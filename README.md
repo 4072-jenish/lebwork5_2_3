@@ -1,16 +1,1 @@
-# lebwork5_1_2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/4072-jenish/lebwork5_2_3/assets/150036720/1ac24aee-bf28-4f9a-be4b-11a23fb5d20a" width = "300">
